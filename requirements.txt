@@ -2,3 +2,4 @@ Django
 pandas
 scikit_learn
 whitenoise
+gunicorn
